@@ -1,68 +1,16 @@
-# 📝 Sticky Notes App
+# React + Vite
 
-A clean and responsive Sticky Notes application built using React, Vite, and Tailwind CSS.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## ✨ Features
+Currently, two official plugins are available:
 
-- Add notes dynamically
-- Delete notes instantly
-- Responsive UI
-- Sticky note styled cards
-- Built using React Hooks
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## 🛠️ Tech Stack
+## React Compiler
 
-- React
-- Vite
-- Tailwind CSS
-- Lucide React
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## 🚀 Installation
+## Expanding the ESLint configuration
 
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/sticky-notes-app.git
-```
-
-Go to the project folder:
-
-```bash
-cd sticky-notes-app
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
-## 📸 Preview
-
-<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/9c18413d-c8d1-49a2-a1f6-9b733520261b" />
-
-
-## 🌐 Deployment
-
-Deploy easily using Vercel or Netlify.
-
-## 📚 What I Learned
-
-- React state management
-- Controlled components
-- Dynamic rendering using map()
-- Event handling
-- Tailwind CSS styling
-
-## 🔮 Future Improvements
-
-- Edit notes
-- Local storage
-- Search functionality
-- Dark mode
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
