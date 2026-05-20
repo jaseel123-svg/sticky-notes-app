@@ -1,16 +1,53 @@
-# React + Vite
+# 📝 Sticky Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive sticky notes app built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+🔗 Live Demo: [https://your-vercel-link.vercel.app](https://sticky-notes-app-pearl.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- Add notes dynamically
+- Delete notes instantly
+- Responsive UI
+- Sticky note styled cards
+- Built using React Hooks
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- Tailwind CSS
+- Lucide React
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/sticky-notes-app.git
+```
+
+```bash
+cd sticky-notes-app
+```
+
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
+
+## 📚 What I Learned
+
+- React state management
+- Controlled components
+- Event handling
+- Dynamic rendering using map()
+- Tailwind CSS styling
+
+## 🔮 Future Improvements
+
+- Edit notes
+- Local storage
+- Search functionality
+- Dark mode
