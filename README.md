@@ -45,7 +45,8 @@ npm run dev
 
 ## 📸 Preview
 
-Add screenshots here later.
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/9c18413d-c8d1-49a2-a1f6-9b733520261b" />
+
 
 ## 🌐 Deployment
 
