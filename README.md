@@ -2,7 +2,7 @@
 
 A clean and responsive Sticky Notes application built using React, Vite, and Tailwind CSS.
 
-🔗 Live Demo: [https://your-vercel-link.vercel.app](https://sticky-notes-app-pearl.vercel.app/)
+🔗 Live Demo: [[https://your-vercel-link.vercel.app](https://sticky-notes-app-pearl.vercel.app/)](https://sticky-notes-app-jaseel.vercel.app/)
 
 ## ✨ Features
 
